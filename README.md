@@ -1,0 +1,2 @@
+# toogle
+Toogle is a tiny search engine specifically for the files given by the user. For a standard library of 300 files (each file being hundreds of pages), the program first needs to go through and tokenize the text in such files and build a fixed-length inverted file. This file will then be used in our search engine, as it will use these pre-made files to search through and find matches to queries. This is for a computer science course at my university.
